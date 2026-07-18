@@ -1,0 +1,5 @@
+openai>=1.99.9
+azure-identity>=1.23.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+pypdf>=5.9.0
