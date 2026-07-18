@@ -124,10 +124,6 @@ AI-Foundry-Labs
 ├── 03_view_project_details.py
 ├── 04_tools_chat_app.py
 ├── 05_cleanup_resources.py
-│
-└── brochures
-      travel1.pdf
-      travel2.pdf
 ```
 
 ---
